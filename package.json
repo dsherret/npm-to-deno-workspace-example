@@ -1,0 +1,6 @@
+{
+  "workspaces": [
+    "packages/add",
+    "packages/subtract"
+  ]
+}

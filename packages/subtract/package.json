@@ -1,0 +1,12 @@
+{
+  "name": "@dsherret/subtract",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@dsherret/add": "^1.0.0"
+  }
+}

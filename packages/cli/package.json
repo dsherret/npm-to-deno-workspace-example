@@ -1,0 +1,11 @@
+{
+  "name": "@dsherret/cli",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@dsherret/add": "^1.0.0",
+    "@dsherret/subtract": "^1.0.0"
+  }
+}
