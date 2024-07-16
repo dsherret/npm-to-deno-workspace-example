@@ -9,6 +9,7 @@
   "dependencies": {
     "@dsherret/add": "^1.0.0",
     "@dsherret/subtract": "^1.0.0",
-    "chalk": "^5.3.0"
+    "chalk": "^5.3.0",
+    "typescript": "^5.5.3"
   }
 }

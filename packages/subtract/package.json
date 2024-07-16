@@ -7,6 +7,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@dsherret/add": "^1.0.0"
+    "@dsherret/add": "^1.0.0",
+    "typescript": "^5.5.3"
   }
 }
