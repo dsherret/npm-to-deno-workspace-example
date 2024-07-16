@@ -1,0 +1,9 @@
+{
+  "workspace": {
+    "members": [
+      "packages/cli",
+      "packages/add",
+      "packages/subtract"
+    ]
+  }
+}
